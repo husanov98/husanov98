@@ -33,9 +33,9 @@
 
 ## 🛠️ My Skills
 
-                                                ### 👉 Programming language
+### 👉 Programming language
 
-<!-- <p align="left"> 
+<!-- <p align="center"> 
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
@@ -53,7 +53,7 @@
 	<a href="https://github.com/husanov98"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/muhammad-husanov-ba216a237/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-                                                      ### 👉 Frameworks
+### 👉 Frameworks
 <p>
 	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
@@ -63,14 +63,14 @@
 <!-- 	<img src="" />&nbsp;&nbsp; -->
 </p>
 
-                                                         ### 👉 IDE
+### 👉 IDE
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 </p>
 
-                                      ### 👉 Competitive Programming & Problem Solving
+### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
  	
@@ -78,7 +78,7 @@
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 </p>
 
-                                                ### 👉 Operating Systems
+### 👉 Operating Systems
  
 <p align="center">
   &emsp;
