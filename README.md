@@ -80,7 +80,7 @@
 
 ### 👉 Operating Systems
  
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
