@@ -3,9 +3,9 @@
 <!-- @format -->
 <img width =100%  src = "assets\Chaitanya Pratap Singh.gif">
 
-<h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Chaitanya Pratap Singh</h1>
+<h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Muhammad Husanov</h1>
 
-<h2 align = "center"> Student | Programming Enthusiasts | Content Creator </h2>
+<h2 align = "center"> Java Developer | Programming Enthusiasts | Content Creator </h2>
 
 ## About Me
 
